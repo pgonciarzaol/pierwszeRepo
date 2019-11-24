@@ -10,6 +10,16 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("FFSF");
+            Console.WriteLine("+");
+            Console.WriteLine("-");
+            Console.WriteLine("*");
+            Console.WriteLine("/");
+            Console.WriteLine("+");
+            Console.WriteLine("exit");
+            Console.WriteLine("nowa linika");
+            Console.WriteLine("fun");
+               
         }
     }
 }
